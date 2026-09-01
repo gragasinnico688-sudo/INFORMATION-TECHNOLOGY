@@ -30,5 +30,31 @@ I would personally choose Google Cloud Platform because I am interested in appli
 
 ## Conclusion
 
+# Checkpoint 5 – Cloud Service Equivalents
+
+The three major cloud providers offer similar services, although the names and features may differ. The table below shows some commonly used services that perform similar functions across AWS, Microsoft Azure, and Google Cloud Platform.
+
+| Service Category        | AWS        | Azure                          | GCP                            |
+| ----------------------- | ---------- | ------------------------------ | ------------------------------ |
+| **Virtual Machine**     | Amazon EC2 | Azure Virtual Machines         | Google Compute Engine          |
+| **Object Storage**      | Amazon S3  | Azure Blob Storage             | Google Cloud Storage           |
+| **Identity Management** | AWS IAM    | Microsoft Entra ID             | Google Cloud IAM               |
+| **SQL Database**        | Amazon RDS | Azure SQL Database             | Cloud SQL                      |
+| **Kubernetes**          | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+
+## Service Comparison
+
+**Virtual Machine:** All three platforms provide virtual machines that allow users to run applications and operating systems in the cloud. AWS uses EC2, Azure provides Azure Virtual Machines, while GCP offers Compute Engine.
+
+**Object Storage:** Amazon S3, Azure Blob Storage, and Google Cloud Storage are designed to store files and other types of unstructured data. These services can be used for documents, images, videos, backups, and application data.
+
+**Identity Management:** AWS IAM, Microsoft Entra ID, and Google Cloud IAM help organizations control who can access cloud resources. They provide authentication and authorization features for managing users and permissions.
+
+**SQL Database:** AWS RDS, Azure SQL Database, and Google Cloud SQL provide managed database services. They reduce the amount of database administration required from organizations.
+
+**Kubernetes:** Amazon EKS, Azure Kubernetes Service, and Google Kubernetes Engine provide managed Kubernetes environments. These services help organizations deploy and manage containerized applications without having to manage an entire Kubernetes infrastructure manually.
+
+
+
 AWS, Microsoft Azure, and Google Cloud are all powerful cloud platforms, but each has different strengths. AWS is known for its wide range of services, Azure is a strong option for Microsoft-based organizations, while Google Cloud is especially attractive for data analytics, artificial intelligence, and Kubernetes. The best platform depends on the organization's existing technology, goals, budget, and technical requirements.
 
