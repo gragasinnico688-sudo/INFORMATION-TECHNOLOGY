@@ -63,3 +63,20 @@ AWS is a suitable platform for the global e-commerce company because it has exte
 
 Each client has different requirements, so the best cloud platform depends on the organization's goals. AWS is recommended for the startup and global e-commerce company because of its scalability and broad service selection. Azure is the strongest match for the university because of its integration with Microsoft's existing technologies. Google Cloud is recommended for the AI research company because of its strong focus on artificial intelligence, machine learning, and data analytics.
 
+# Checkpoint 6 – Multi-Cloud Decision Matrix
+
+The following decision matrix compares AWS, Microsoft Azure, and Google Cloud based on different business requirements. The recommended platform is selected according to the specific needs and strengths of each type of organization.
+
+| Business Requirement        | Recommended Platform          | Justification                                                                                                                                                                                                                         |
+| --------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Startup Company**         | **AWS**                       | AWS offers many services that can be started with small resources and expanded as the business grows. Its flexible infrastructure makes it suitable for startups with changing workloads.                                             |
+| **Enterprise Organization** | **AWS**                       | AWS provides a wide variety of enterprise services for computing, storage, databases, networking, security, and monitoring. This makes it suitable for organizations with complex IT requirements.                                    |
+| **Microsoft Environment**   | **Microsoft Azure**           | Azure is the natural choice for organizations that already depend on Microsoft products. It provides strong integration with Windows Server, Microsoft 365, and Microsoft Entra ID.                                                   |
+| **AI / Machine Learning**   | **Google Cloud Platform**     | Google Cloud provides powerful artificial intelligence and machine learning tools. Its Vertex AI platform can help organizations develop, train, and deploy machine learning models.                                                  |
+| **Kubernetes Deployment**   | **Google Cloud Platform**     | Google Cloud is a strong option for Kubernetes because it provides Google Kubernetes Engine (GKE), a managed Kubernetes service. Google also created Kubernetes, making GCP a strong platform for containerized applications.         |
+| **Global Web Application**  | **Amazon Web Services (AWS)** | AWS has a large global infrastructure and services that support highly available web applications. Services such as Amazon CloudFront, Elastic Load Balancing, and EC2 can help deliver applications to users in different locations. |
+
+## Summary
+
+There is no single cloud provider that is best for every situation. AWS is a strong general-purpose choice for startups and large enterprises, Azure is particularly useful for Microsoft-based organizations, and Google Cloud is an excellent option for AI, machine learning, and Kubernetes workloads. Choosing the right platform should depend on the organization's existing technology, budget, workload, and future plans.
+
