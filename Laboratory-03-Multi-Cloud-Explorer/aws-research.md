@@ -1,66 +1,41 @@
-# Amazon Web Services (AWS) Research
+# Amazon Web Services (AWS)
 
-## 1. Brief Overview
+## Brief Overview
 
-Amazon Web Services (AWS) is a cloud computing platform provided by Amazon. It offers a wide range of cloud services for computing, storage, databases, networking, security, analytics, and application development. AWS allows organizations to access IT resources over the internet without having to maintain all of the physical infrastructure themselves.
+Amazon Web Services (AWS) is a cloud computing platform created by Amazon. It provides different online services that allow individuals and businesses to store data, run applications, use databases, and manage computer resources without owning large amounts of physical hardware.
 
-## 2. Global Infrastructure
+## Global Infrastructure
 
-AWS operates a global cloud infrastructure made up of Regions, Availability Zones, and data centers. AWS Regions are geographic areas where AWS provides cloud services, while Availability Zones are isolated locations within Regions designed to provide high availability and reliability.
+AWS has a large infrastructure distributed across different parts of the world. It uses Regions and Availability Zones to provide reliable and accessible cloud services. This global setup allows companies to place their applications and data in locations that are closer to their customers.
 
-AWS provides services across many regions around the world, allowing organizations to deploy applications closer to their customers and improve performance and availability.
+## Cloud Management Console
 
-## 3. Cloud Management Console
+The AWS Management Console is a website where users can control their AWS resources. From the console, users can create virtual machines, manage storage, configure databases, monitor resources, and access other AWS services.
 
-The AWS Management Console is a web-based interface used to access and manage AWS services. Users can search for services, create and manage resources, monitor applications, manage billing, and configure security settings through the console.
+## Four Core Services
 
-The AWS Console also provides access to tools such as AWS CloudShell, notifications, account settings, and service-specific management interfaces.
+**1. Amazon EC2** – Provides virtual computers that can be used to run websites, applications, and other workloads.
 
-## 4. Four Core Services
+**2. Amazon S3** – Provides online storage for files, images, videos, documents, and backups.
 
-### Amazon EC2
+**3. Amazon RDS** – Provides managed relational databases so businesses do not have to handle all database maintenance themselves.
 
-Amazon Elastic Compute Cloud (EC2) provides virtual servers that organizations can use to run applications and workloads in the cloud.
+**4. AWS Lambda** – Allows developers to run programs without directly managing servers.
 
-### Amazon S3
+## Three Advantages
 
-Amazon Simple Storage Service (S3) is an object storage service used to store files, documents, images, backups, and other types of data.
+**1. Flexible Resources** – AWS resources can be adjusted when the needs of an organization change.
 
-### Amazon RDS
+**2. Global Reach** – AWS has infrastructure in many locations around the world.
 
-Amazon Relational Database Service (RDS) is a managed database service that makes it easier to set up, operate, and scale relational databases.
+**3. Large Service Selection** – AWS provides many different cloud services that can be combined to create complete applications.
 
-### AWS Lambda
+## Typical Enterprise Use Cases
 
-AWS Lambda is a serverless computing service that allows developers to run code without managing servers.
-
-## 5. Three Advantages
-
-1. **Scalability** – AWS resources can be increased or decreased according to application demand.
-2. **Global Availability** – AWS has a large global infrastructure that allows organizations to deploy applications in different geographic locations.
-3. **Wide Range of Services** – AWS provides many services for computing, storage, databases, networking, security, analytics, and artificial intelligence.
-
-## 6. Typical Enterprise Use Cases
-
-* Hosting websites and web applications
-* Storing and backing up business data
-* Running enterprise databases
-* Disaster recovery and business continuity
-* Data analytics and artificial intelligence
-* E-commerce applications
-* Application development and testing
+Companies can use AWS to host websites, store important business files, operate databases, create backup systems, develop applications, analyze data, and support e-commerce platforms.
 
 ## Screenshot
 
-**Official AWS Management Console:**
-
-Add your screenshot here after uploading it to your GitHub repository.
-
-Example:
-
 ![AWS Management Console Screenshot](images/aws-console.png)
 
-**Official Source:** https://aws.amazon.com/console/
-
-The AWS Management Console provides centralized access to AWS service consoles and allows users to manage cloud resources through a web interface.
-
+*Screenshot taken from the official AWS website or AWS Management Console.*
